@@ -146,8 +146,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 2.5746, y: -35}
+  m_SizeDelta: {x: -449.73782, y: -201.40678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &13183165
 MonoBehaviour:
@@ -348,7 +348,7 @@ GameObject:
   - component: {fileID: 732345495}
   - component: {fileID: 732345494}
   m_Layer: 5
-  m_Name: InputPassword
+  m_Name: Input_Password
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -372,7 +372,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.5745544, y: -7.7218933}
+  m_AnchoredPosition: {x: 2.5746, y: 50}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &732345494
@@ -585,7 +585,7 @@ GameObject:
   - component: {fileID: 1243047297}
   - component: {fileID: 1243047296}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Btn_Aceptar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -608,8 +608,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.5745544, y: -7.7218933}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 14, y: -97.201}
+  m_SizeDelta: {x: 211.49207, y: 79.59745}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1243047296
 MonoBehaviour:
@@ -995,7 +995,7 @@ GameObject:
   - component: {fileID: 2127282650}
   - component: {fileID: 2127282649}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Txt_Bienvenida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1017,8 +1017,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -99, y: -122}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -10, y: 130}
+  m_SizeDelta: {x: 359.23242, y: 300.08646}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2127282649
 MonoBehaviour:
@@ -1033,7 +1033,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0.8773585, g: 0.55869526, b: 0.55869526, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
